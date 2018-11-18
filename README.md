@@ -1,6 +1,6 @@
 # flutter_state_management
 
-Playground for state mangement
+Counter App with inherited widget as state management
 
 ## Getting Started
 
